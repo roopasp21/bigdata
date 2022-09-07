@@ -7,6 +7,7 @@ object Wordcount {
   def main(args: Array[String]) = {
 
     //Start the Spark context
+    //added one comment
     val conf = new SparkConf()
       .setAppName("WordCount")
       .setJars(Seq("/home/big/workspace_3/spark_example/target/spark_example-0.0.1-SNAPSHOT-jar-with-dependencies.jar"));
