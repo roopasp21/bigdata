@@ -1,3 +1,3 @@
 just testing
-testing again
+testing again---added comment to test merging with conflicts
 changes done to test branching through git!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
