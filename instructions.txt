@@ -1,4 +1,4 @@
 just testing
-testing again
+testing again---added comment to test merging with conflicts
 testing sample branch
 added to test changes while merging-to test conflicts
